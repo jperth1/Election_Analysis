@@ -9,8 +9,9 @@ Election audit for the Colorado Board of Elections on the recent local congressi
 5. Deteremine the winner of the election based on popular vote.
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.9.1, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+
+- Software: Python 3.9.1, Visual Studio Code, 1.38.1
 
 ## Summary
 The analysis fo the election shows that:
