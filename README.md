@@ -59,9 +59,11 @@ The analysis of the election shows that:
   - Diana DeGette recieved 73.8% of the vote and 272,892 number of votes
   - Raymond Anthony Doane recieved 3.1% of the vote and 11,606 number of votes
   
-  ![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Candidate_Results.png)
+![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Candidate_Results.png)
  
 - The winner of the election was:
   - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes
 
-  ![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Winner.png)
+![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Winner.png)
+  
+  
