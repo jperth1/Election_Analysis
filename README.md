@@ -35,6 +35,7 @@ The following resources were used to complete this audit:
 
 ![PyPoll_Challenge_Total_Votes](/Resources/PyPoll_Challenge_Total_Votes.png)
 
+### The county results were:
 
 - Three counties made up the congressional election district and the county results were:
 - Jefferson county cast 10.5% of the vote and 38,855 total number of votes
