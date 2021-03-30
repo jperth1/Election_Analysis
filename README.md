@@ -1,12 +1,16 @@
 # Election_Analysis
 
 ## Project Overview
-Election audit for the Colorado Board of Elections on the recent local congressional election, includes the following completed taks:
-1. Calculate the total number of votes cast.
-2. Get a complete list of the candidates who recived cotes.
-2. Calculate the total number of cotes each candidate recieved.
-4. calculate the percentage of cotes each candidate won.
-5. Deteremine the winner of the election based on popular vote.
+This election audit on the recent local Colorado congressional election includes the following completed taks to provide the Colorado Board of Elections with an formal examination of the 
+1. The total number of votes cast
+2. A complete list of the candidates who recived votes
+2. The total number of votes each candidate recieved
+4. The percentage of votes each candidate won
+5. The winner of the election based on popular vote
+6. A complete list of counties that participated in the election
+7. The total number of votes each county cast
+8. the percentage of votes each county cast
+9. the county with the largest number of votes cast
 
 ## Resources
 - Data Source: election_results.csv
@@ -14,7 +18,7 @@ Election audit for the Colorado Board of Elections on the recent local congressi
 - Software: Python 3.9.1, Visual Studio Code, 1.38.1
 
 ## Summary
-The analysis fo the election shows that:
+The analysis fof the election shows that:
 - There were 369,711 total votes cast in the election.
 - There were three candidates:
   - Charles Casper Stockham
