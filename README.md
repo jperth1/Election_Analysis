@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This election audit aims to certify the recent colorado congressional elections. Using election results from mail-in-ballots, punch cards, and direct recording electronics, this audit using python to automate the process of calculating votes cast in the Colordado congressional district election. In additioin to providing a formal examination of voting results, this audit aims to provide an automated python auditing system to be used for future congressional districts as well as senatorial districts and local elections. 
+This election audit aims to certify the recent Colorado congressional elections. Using election results from mail-in-ballots, punch cards, and direct recording electronics, this audit using python to automate the process of calculating votes cast in the Colordado congressional district election. In additioin to providing a formal examination of voting results, this audit aims to provide an automated python auditing system to be used for future congressional districts as well as senatorial districts and local elections. 
 
 This audit completed the following tasks to provide the Colorado Board of Elections with an formal examination of the voting results for the recent Colorado congressional election:
 
@@ -61,3 +61,4 @@ The following resources were used to complete this audit:
 
 ## Audit Summary
 
+The Colorado Election Commission is currently seeking a qualified team to create an automated process to audit and certify the results of congressional, senatorial, and local elections. The priorities of the the Colorado Election Commission are applicability and integration. The auditing process using for this election  can be modified and applied to other congressional elections, senatorial elecations and local elections to standarized and integrate the election auditing process. This python script can be modified to appropriately represent scale of differenrt elections. Fpr example, if the Colorado Election Commission wanted to audit each congressional distirct election across the state of colorado this script could be modified to 
