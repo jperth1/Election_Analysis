@@ -37,7 +37,6 @@ The following resources were used to complete this audit:
 
 ### The county results were:
 
-- Three counties made up the congressional election district and the county results were:
 - Jefferson county cast 10.5% of the vote and 38,855 total number of votes
 - Denver county cast 82.8% of the vote and 306,055 total number of votes
 - Arapahoe county cast 6.7% of the vote and 24,801 total number of votes
