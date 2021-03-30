@@ -41,12 +41,10 @@ The following resources were used to complete this audit:
 - Jefferson county cast 10.5% of the vote and 38,855 total number of votes
 - Denver county cast 82.8% of the vote and 306,055 total number of votes
 - Arapahoe county cast 6.7% of the vote and 24,801 total number of votes
-
-![PyPoll_Challenge_Total_Votes](/Resources/PyPoll_Challenge_County_Vote.png)
-
 - Denver county had the largest turn out with the largest number of votes cast of 306,055
 
-![PyPoll_Challenge_Total_Votes](/Resources/Py_Poll_Challenge_Largest_County.png)
+
+![PyPoll_Challenge_Total_Votes](/Resources/PyPoll_Challenge_County_Vote.png)
 
 
 ### The candidate results were:
