@@ -1,7 +1,10 @@
 # Election_Analysis
 
 ## Project Overview
-This election audit on the recent local Colorado congressional election includes the following completed taks to provide the Colorado Board of Elections with an formal examination of the 
+This election audit aims to certify the recent colorado congressional elections. Using election results from mail-in-ballots, punch cards, and direct recording electronics, this audit using python to automate the process of calculating votes cast in the Colordado congressional district election. In additioin to providing a formal examination of voting results, this audit aims to provide an automated python audit system to be used for other congressional districts as well as senatorial districts and local elections. 
+
+This audit completed the following tasks to provide the Colorado Board of Elections with an formal examination of the voting results for the recent Colorado congressional election:
+
 1. The total number of votes cast
 2. A complete list of the candidates who recived votes
 2. The total number of votes each candidate recieved
