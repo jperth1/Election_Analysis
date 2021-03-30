@@ -35,7 +35,7 @@ Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-The analysis of the election shows that:
+### The analysis of the election shows that:
 
 - There were 369,711 total votes cast in the congressional election.
 
@@ -54,7 +54,7 @@ The analysis of the election shows that:
 ![PyPoll_Challenge_Total_Votes](/Resources/Py_Poll_Challenge_Largest_County.png)
 
 
-- The candidate results were:
+### The candidate results were:
   - Charles Casper Stockham recieved 23.0% of the vote and 85,213 number of votes
   - Diana DeGette recieved 73.8% of the vote and 272,892 number of votes
   - Raymond Anthony Doane recieved 3.1% of the vote and 11,606 number of votes
@@ -66,4 +66,6 @@ The analysis of the election shows that:
 
 ![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Winner.png)
   
-  
+
+## Audit Summary
+
