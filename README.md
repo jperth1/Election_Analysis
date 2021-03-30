@@ -29,18 +29,13 @@ The following resources were used to complete this audit:
 
 ## Audit Results
 
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-The analysis of the election shows that:
+### The analysis of the election shows that:
 
 - There were 369,711 total votes cast in the congressional election.
 
 ![PyPoll_Challenge_Total_Votes](/Resources/PyPoll_Challenge_Total_Votes.png)
 
+### The county results were:
 
 - Three counties made up the congressional election district and the county results were:
 - Jefferson county cast 10.5% of the vote and 38,855 total number of votes
@@ -54,14 +49,18 @@ The analysis of the election shows that:
 ![PyPoll_Challenge_Total_Votes](/Resources/Py_Poll_Challenge_Largest_County.png)
 
 
-- The candidate results were:
+### The candidate results were:
   - Charles Casper Stockham recieved 23.0% of the vote and 85,213 number of votes
   - Diana DeGette recieved 73.8% of the vote and 272,892 number of votes
   - Raymond Anthony Doane recieved 3.1% of the vote and 11,606 number of votes
   
-  ![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Candidate_Results.png)
+![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Candidate_Results.png)
  
 - The winner of the election was:
   - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes
 
-  ![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Winner.png)
+![PyPoll_Challenge_Total_Votes](/Resources/PyPol_Challenge_Winner.png)
+  
+
+## Audit Summary
+
